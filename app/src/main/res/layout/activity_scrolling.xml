@@ -40,12 +40,12 @@
 
     <android.support.design.widget.FloatingActionButton
         android:id="@+id/fab"
-        android:layout_width="215dp"
-        android:layout_height="118dp"
+        android:layout_width="57dp"
+        android:layout_height="80dp"
         android:layout_margin="@dimen/fab_margin"
         app:layout_anchor="@id/app_bar"
         app:layout_anchorGravity="bottom|end"
         app:srcCompat="@android:drawable/ic_dialog_email"
-        tools:layout_editor_absoluteX="153dp" />
+        tools:layout_editor_absoluteX="311dp" />
 
 </android.support.design.widget.CoordinatorLayout>
